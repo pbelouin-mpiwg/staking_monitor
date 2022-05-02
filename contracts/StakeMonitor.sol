@@ -14,7 +14,7 @@ error StakingMonitor__UpperBond_SmallerThan_LowerBound();
 
 struct userInfo {
     uint256 balance;
-    uint256 USDCBalance;
+    uint256 DAIBalance;
     uint256 priceUpperBound;
     uint256 priceLowerBound;
 }
